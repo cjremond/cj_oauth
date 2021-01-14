@@ -61,4 +61,5 @@ app_secret = "kCgER48QI1V9************************",
 
 ### 其他
 使用中如果有什么问题，请提交 issue，我会及时查看
-或者加我微信
+
+或者加我微信![image](https://github.com/cjremond/cj_oauth/blob/main/001.jpg)
