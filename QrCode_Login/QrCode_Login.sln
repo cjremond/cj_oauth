@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCode_Login", "QrCode_Login.csproj", "{8B16E429-618E-454F-8DF8-2D679CC5B20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cj_OAuth", "..\cj_OAuth\cj_OAuth.csproj", "{E02CF448-8883-44BD-9134-9AB5DF9DD115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B16E429-618E-454F-8DF8-2D679CC5B20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B16E429-618E-454F-8DF8-2D679CC5B20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B16E429-618E-454F-8DF8-2D679CC5B20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B16E429-618E-454F-8DF8-2D679CC5B20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02CF448-8883-44BD-9134-9AB5DF9DD115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02CF448-8883-44BD-9134-9AB5DF9DD115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02CF448-8883-44BD-9134-9AB5DF9DD115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02CF448-8883-44BD-9134-9AB5DF9DD115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {459A0BF0-5575-4B25-A4CA-AFA8E34CEDBC}
+	EndGlobalSection
+EndGlobal
